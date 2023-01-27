@@ -1,5 +1,5 @@
 # HW-2.1
-This is a training project for mastering the constraits
+This is a training project for mastering the constraits.
 
 ## Task:
 With the help of constraints, arrange two views on the screen so that they occupy equal areas. The task is to maintain the proportions of these views when changing the orientation of the device.
